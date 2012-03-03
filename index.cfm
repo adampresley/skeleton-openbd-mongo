@@ -1,0 +1,3 @@
+<!---
+	Skeleton OpenBD + MongoDB
+--->

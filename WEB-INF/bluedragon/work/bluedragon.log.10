@@ -1,0 +1,63 @@
+
+]--- Logging Started ------[
+28/02/12 22:33.37: RunTimeError Directory=[/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs], Max=[100]
+28/02/12 22:33.37: BlueDragon WorkingDirectory=[/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work]
+28/02/12 22:33.37: BlueDragon TempDirectory=[/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp]
+28/02/12 22:33.37: dbPool: Initialised using: OpenBD DBPoolManager $Revision: 1.1 $
+28/02/12 22:33.37: OutgoingMailServer started mainDirectory=/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/cfmail
+28/02/12 22:33.37: CollectionFactory.init(): no <cfcollection> found in configuration
+28/02/12 22:33.37: BlueDragon server is starting up...
+28/02/12 22:33.37: Product Version: 2.0.2
+28/02/12 22:33.37: Build date: 2012-01-01 10:14:17 GMT
+28/02/12 22:33.37: tagChecker loaded: 140 tags
+28/02/12 22:33.37: cfmlFileCache Configuration. Caching=1000 files; trusted cache=false
+28/02/12 22:33.37: cfmlFileCache.loadCustomTagMappings [CF_] >> [/WEB-INF/customtags]
+28/02/12 22:33.37: cfmlFileCache.loadCFMappings: no CF mappings defined.
+28/02/12 22:33.37: PluginManager Auto Discovery (openbdplugin-XXXX.jar) ...
+28/02/12 22:33.37: ... found: 0 plugins
+28/02/12 22:33.37: cfEngine: Using default character encoding UTF-8
+28/02/12 22:33.37: cfEngine: WebResourcePath /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/webresources
+28/02/12 22:33.37: BlueDragon NativeLibDirectory=[/WEB-INF/bin/x64/]
+28/02/12 22:33.37: queryBatchServer started: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/cfquerybatch
+28/02/12 22:33.37: querySlowLog tracking SQL activity over: 1 seconds
+28/02/12 22:33.37: CFQUERY Connection pool validation queries: ENABLED
+28/02/12 22:33.37: CFIMAP Caching Engine Initialised.
+28/02/12 22:33.37: cfChart: storage=file; size=1000
+28/02/12 22:33.37: ScheduleEngine: Started. Initial Tasks=0
+28/02/12 22:33.37: scheduleEngine started; logfile=/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/cfschedule/schedule.log
+28/02/12 22:33.38: PlugIn.Load.Installed: org.alanwilliamson.openbd.plugin.spreadsheet.SpreadSheetExtension; SpreadSheet; Version=1.2011.11.4
+28/02/12 22:33.38: PlugIn.Load.Installed: org.alanwilliamson.openbd.plugin.cfsmtp.SmtpExtension; CFSMTP; Version=1.2011.11.4
+28/02/12 22:33.38: [LoginPlugin] <server>.<plugin>.<login>.<userfield>: no userfield specified
+28/02/12 22:33.38: PlugIn.Load.Installed: org.aw20.plugin.login.LoginExtension; LoginExtension; Version=1.2011.11.4
+28/02/12 22:33.38: PlugIn.Load.Installed: org.alanwilliamson.openbd.plugin.crontab.CronExtension; CronTab; Version=1.2011.11.4
+28/02/12 22:33.38: PlugIn.Load.Installed: com.bluedragon.mongo.MongoExtension; MongoExtension; Version=1.2011.11.4
+28/02/12 22:33.38: Global client variable updates disabled
+28/02/12 22:33.38: cfApplicationManager.DefaultClientStorage=[cookie]; J2EE Sessions=true
+28/02/12 22:33.38: cfCacheContent: InMemoryCache=1000
+28/02/12 22:33.38: cfSCRIPT Registered: language=java; class=org.alanwilliamson.lang.java.cfSCRIPTJava
+28/02/12 22:33.38: cfSCRIPT Registered: language=javascript; class=org.alanwilliamson.lang.javascript.cfSCRIPTJavascript
+28/02/12 22:33.38: expressionEngine loaded: 657 functions
+28/02/12 22:33.38: cfEngine: Show Debug output on error? true
+28/02/12 22:33.38: cfEngine: Show Debugger output? false
+28/02/12 22:33.38: cfEngine: Strict Mode: ArrayPassByReference? false
+28/02/12 22:33.38: cfEngine: Strict Mode: FunctionScopedVariables? false
+28/02/12 22:33.38: cfEngine: Assertions disabled
+28/02/12 22:33.38: cfEngine: Combined Form/Url Scope? false
+28/02/12 22:33.38: cfEngine: Legacy server side form validation? false
+28/02/12 22:33.38: BlueDragon has initialised. Ready for requests.
+28/02/12 22:33.38: Server.cfc not available: /Server
+28/02/12 22:33.42: cfApplicationManager.createApp: gamerscalendar-0_1
+28/02/12 22:33.49: BlueDragon is being shut down ... 
+28/02/12 22:33.49: OutgoingMailServer: Shutdown
+28/02/12 22:33.49: -] mailSender: thread stop.
+28/02/12 22:33.49: -] cfmlFileCache was flushed
+28/02/12 22:33.49: cfmlFileCache was shutdown
+28/02/12 22:33.49: -] cfQueryBatchServer: thread stop.
+28/02/12 22:33.49: -] cfQueryBatchServer: Shutdown
+28/02/12 22:33.49: CFIMAP Caching Engine closed open connections
+28/02/12 22:33.49: cfApplicationManager.onApplicationEnd: gamerscalendar-0_1
+28/02/12 22:33.49: cfApplicationManager has been shutdown
+28/02/12 22:33.49: OutgoingMailServer: Shutdown
+28/02/12 22:33.49: All logging has been shutdown
+28/02/12 22:33.49: dbPool: All database connections have been closed.
+28/02/12 22:33.49: BlueDragon has been successfully shutdown

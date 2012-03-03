@@ -1,0 +1,135 @@
+
+]--- Logging Started ------[
+29/02/12 00:35.02: RunTimeError Directory=[/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs], Max=[100]
+29/02/12 00:35.02: BlueDragon WorkingDirectory=[/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work]
+29/02/12 00:35.02: BlueDragon TempDirectory=[/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp]
+29/02/12 00:35.02: dbPool: Initialised using: OpenBD DBPoolManager $Revision: 1.1 $
+29/02/12 00:35.02: OutgoingMailServer started mainDirectory=/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/cfmail
+29/02/12 00:35.02: CollectionFactory.init(): no <cfcollection> found in configuration
+29/02/12 00:35.02: BlueDragon server is starting up...
+29/02/12 00:35.02: Product Version: 2.0.2
+29/02/12 00:35.02: Build date: 2012-01-01 10:14:17 GMT
+29/02/12 00:35.02: tagChecker loaded: 140 tags
+29/02/12 00:35.02: cfmlFileCache Configuration. Caching=1000 files; trusted cache=false
+29/02/12 00:35.02: cfmlFileCache.loadCustomTagMappings [CF_] >> [/WEB-INF/customtags]
+29/02/12 00:35.02: cfmlFileCache.loadCFMappings: no CF mappings defined.
+29/02/12 00:35.02: PluginManager Auto Discovery (openbdplugin-XXXX.jar) ...
+29/02/12 00:35.02: ... found: 0 plugins
+29/02/12 00:35.02: cfEngine: Using default character encoding UTF-8
+29/02/12 00:35.02: cfEngine: WebResourcePath /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/webresources
+29/02/12 00:35.02: BlueDragon NativeLibDirectory=[/WEB-INF/bin/x64/]
+29/02/12 00:35.02: queryBatchServer started: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/cfquerybatch
+29/02/12 00:35.02: querySlowLog tracking SQL activity over: 1 seconds
+29/02/12 00:35.02: CFQUERY Connection pool validation queries: ENABLED
+29/02/12 00:35.02: CFIMAP Caching Engine Initialised.
+29/02/12 00:35.02: cfChart: storage=file; size=1000
+29/02/12 00:35.02: ScheduleEngine: Started. Initial Tasks=0
+29/02/12 00:35.02: scheduleEngine started; logfile=/code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/cfschedule/schedule.log
+29/02/12 00:35.03: PlugIn.Load.Installed: org.alanwilliamson.openbd.plugin.spreadsheet.SpreadSheetExtension; SpreadSheet; Version=1.2011.11.4
+29/02/12 00:35.03: PlugIn.Load.Installed: org.alanwilliamson.openbd.plugin.cfsmtp.SmtpExtension; CFSMTP; Version=1.2011.11.4
+29/02/12 00:35.03: [LoginPlugin] <server>.<plugin>.<login>.<userfield>: no userfield specified
+29/02/12 00:35.03: PlugIn.Load.Installed: org.aw20.plugin.login.LoginExtension; LoginExtension; Version=1.2011.11.4
+29/02/12 00:35.03: PlugIn.Load.Installed: org.alanwilliamson.openbd.plugin.crontab.CronExtension; CronTab; Version=1.2011.11.4
+29/02/12 00:35.03: PlugIn.Load.Installed: com.bluedragon.mongo.MongoExtension; MongoExtension; Version=1.2011.11.4
+29/02/12 00:35.03: Global client variable updates disabled
+29/02/12 00:35.03: cfApplicationManager.DefaultClientStorage=[cookie]; J2EE Sessions=true
+29/02/12 00:35.03: cfCacheContent: InMemoryCache=1000
+29/02/12 00:35.03: cfSCRIPT Registered: language=java; class=org.alanwilliamson.lang.java.cfSCRIPTJava
+29/02/12 00:35.03: cfSCRIPT Registered: language=javascript; class=org.alanwilliamson.lang.javascript.cfSCRIPTJavascript
+29/02/12 00:35.03: expressionEngine loaded: 657 functions
+29/02/12 00:35.03: cfEngine: Show Debug output on error? true
+29/02/12 00:35.03: cfEngine: Show Debugger output? false
+29/02/12 00:35.03: cfEngine: Strict Mode: ArrayPassByReference? false
+29/02/12 00:35.03: cfEngine: Strict Mode: FunctionScopedVariables? false
+29/02/12 00:35.03: cfEngine: Assertions disabled
+29/02/12 00:35.03: cfEngine: Combined Form/Url Scope? false
+29/02/12 00:35.03: cfEngine: Legacy server side form validation? false
+29/02/12 00:35.03: BlueDragon has initialised. Ready for requests.
+29/02/12 00:35.03: Server.cfc not available: /Server
+29/02/12 00:35.04: cfApplicationManager.createApp: gamerscalendar-0_1
+29/02/12 00:35.06: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-003506_3907957361067523129.html
+29/02/12 00:40.16: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004016_1625173236741884850.html
+29/02/12 00:40.45: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004045_2237995863242562136.html
+29/02/12 00:42.56: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004256_5863794648976534436.html
+29/02/12 00:44.36: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004436_5050023447835477225.html
+29/02/12 00:45.30: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004530_2792806863983148130.html
+29/02/12 00:45.31: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004531_6256507236468460504.html
+29/02/12 00:45.48: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004548_1923297889568117714.html
+29/02/12 00:45.48: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004548_7585244774282375045.html
+29/02/12 00:45.49: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004549_3035855213981664164.html
+29/02/12 00:45.49: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004549_5722422880241369286.html
+29/02/12 00:45.50: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004550_6956747538910467881.html
+29/02/12 00:45.50: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004550_3920117165645395662.html
+29/02/12 00:45.50: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004550_6880472435145489645.html
+29/02/12 00:45.50: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004550_8513063578494251905.html
+29/02/12 00:45.50: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004550_6277704897015610895.html
+29/02/12 00:45.51: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004551_5201170735534793070.html
+29/02/12 00:45.56: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004556_1653696663168942078.html
+29/02/12 00:46.08: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004608_8981843635357250406.html
+29/02/12 00:46.09: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004609_9061188309014836010.html
+29/02/12 00:46.14: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004614_2631723827639048295.html
+29/02/12 00:46.14: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004614_5441395019595827590.html
+29/02/12 00:46.19: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004619_2732962817090692929.html
+29/02/12 00:46.20: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004620_2486310845377535372.html
+29/02/12 00:46.52: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004652_5765191647140249940.html
+29/02/12 00:46.54: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004654_3713377491990756560.html
+29/02/12 00:48.13: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004813_907915533671736283.html
+29/02/12 00:48.15: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004815_7900171545777810877.html
+29/02/12 00:48.47: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004847_3885147290687735296.html
+29/02/12 00:48.49: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-004849_1893772494075844448.html
+29/02/12 00:50.17: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005017_1453261608747351536.html
+29/02/12 00:50.18: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005018_7488423768314490531.html
+29/02/12 00:50.48: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005048_1052222802980680916.html
+29/02/12 00:50.48: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005048_1406489994914047575.html
+29/02/12 00:50.49: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005049_8709550591799517774.html
+29/02/12 00:53.45: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005345_1133232633195613977.html
+29/02/12 00:53.47: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005347_4283052931286107012.html
+29/02/12 00:53.47: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005347_6617241082248572149.html
+29/02/12 00:53.48: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005348_1391238649650325837.html
+29/02/12 00:53.48: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005348_712243369147237906.html
+29/02/12 00:53.49: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005349_8337730428696108922.html
+29/02/12 00:53.49: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005349_6967639986157714495.html
+29/02/12 00:53.50: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005350_5449401956459458443.html
+29/02/12 00:53.50: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005350_5854876695409844741.html
+29/02/12 00:53.50: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005350_8412503057742547981.html
+29/02/12 00:53.51: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005351_5239548267949607737.html
+29/02/12 00:53.51: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005351_7190714176435934397.html
+29/02/12 00:53.52: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005352_838205847848385995.html
+29/02/12 00:54.17: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005417_4157606529057666748.html
+29/02/12 00:54.18: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005418_8037700073588732258.html
+29/02/12 00:54.18: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005418_7995875862715259825.html
+29/02/12 00:54.19: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005419_9199224231576092247.html
+29/02/12 00:54.19: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005419_4402378707486285775.html
+29/02/12 00:54.20: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005420_2468123709740047311.html
+29/02/12 00:54.35: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005435_6144080370342192114.html
+29/02/12 00:54.36: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005436_5710313637809871884.html
+29/02/12 00:54.36: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005436_4799076164495630946.html
+29/02/12 00:54.37: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005437_1019012292732759552.html
+29/02/12 00:54.37: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005437_6653034152104392129.html
+29/02/12 00:54.38: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005438_7056010254643053298.html
+29/02/12 00:54.38: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005438_5807104497943681105.html
+29/02/12 00:54.38: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005438_6179861160740984895.html
+29/02/12 00:54.39: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005439_6382886763908264880.html
+29/02/12 00:54.39: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005439_6302161730878642194.html
+29/02/12 00:54.39: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005439_3553179556693193302.html
+29/02/12 00:59.15: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005915_784175193939097433.html
+29/02/12 00:59.15: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005915_3903633834890554400.html
+29/02/12 00:59.16: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005916_4513028227695338021.html
+29/02/12 00:59.16: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005916_3108919435383483859.html
+29/02/12 00:59.17: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005917_6251361759674024554.html
+29/02/12 00:59.17: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-005917_4833450938412159624.html
+29/02/12 01:03.06: RTE: /code/coldfusion/gamerscalendar/server/tomcat/webapps/../../../WEB-INF/bluedragon/work/temp/rtelogs/bderror-2012-02-29-010306_6303760325509341003.html
+29/02/12 01:10.11: BlueDragon is being shut down ... 
+29/02/12 01:10.11: OutgoingMailServer: Shutdown
+29/02/12 01:10.11: -] mailSender: thread stop.
+29/02/12 01:10.11: -] cfmlFileCache was flushed
+29/02/12 01:10.11: cfmlFileCache was shutdown
+29/02/12 01:10.11: -] cfQueryBatchServer: thread stop.
+29/02/12 01:10.11: -] cfQueryBatchServer: Shutdown
+29/02/12 01:10.11: CFIMAP Caching Engine closed open connections
+29/02/12 01:10.11: cfApplicationManager.onApplicationEnd: gamerscalendar-0_1
+29/02/12 01:10.11: cfApplicationManager has been shutdown
+29/02/12 01:10.11: OutgoingMailServer: Shutdown
+29/02/12 01:10.11: All logging has been shutdown
+29/02/12 01:10.11: dbPool: All database connections have been closed.
+29/02/12 01:10.11: BlueDragon has been successfully shutdown
